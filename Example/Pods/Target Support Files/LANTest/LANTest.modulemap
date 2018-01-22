@@ -1,0 +1,6 @@
+framework module LANTest {
+  umbrella header "LANTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
