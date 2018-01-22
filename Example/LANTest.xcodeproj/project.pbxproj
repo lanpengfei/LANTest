@@ -59,14 +59,14 @@
 		63D539C0C317938CC368DF8C /* Pods-LANTest_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LANTest_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LANTest_Example/Pods-LANTest_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7AD9FA998CD2CE55793DC63E /* Pods_LANTest_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LANTest_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		84008274B81CD654C455E1A9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		842783F5CDCE1754DD824ADF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		84008274B81CD654C455E1A9 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		842783F5CDCE1754DD824ADF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		97C1F8349451F81AD3B95343 /* Pods_LANTest_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LANTest_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE5CA84B16F71A22426AB5A6 /* Pods-LANTest_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LANTest_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LANTest_Example/Pods-LANTest_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B0706B30325D836DDE5A4CF0 /* Pods-LANTest_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LANTest_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LANTest_Tests/Pods-LANTest_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		BD3E4A7CA67BD89CB81785A9 /* Pods-LANTest_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LANTest_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LANTest_Tests/Pods-LANTest_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D3B52448FF077AADE60BA545 /* LANTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = LANTest.podspec; path = ../LANTest.podspec; sourceTree = "<group>"; };
+		D3B52448FF077AADE60BA545 /* LANTest.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LANTest.podspec; path = ../LANTest.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
